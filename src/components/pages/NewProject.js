@@ -5,7 +5,7 @@ function NewProject(){
     <div className={styles.newproject_container}>
        <h1>Create New Project</h1>
        <p>Create your project for then add services</p>
-       <ProjectForm/>
+       <ProjectForm btnText='Create Project'/>
     </div>
     )
   }
