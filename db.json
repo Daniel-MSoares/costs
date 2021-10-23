@@ -13,6 +13,17 @@
     },
     {
       "id": 2
+    },
+    {
+      "name": "Daniel Muniz",
+      "budget": "10",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
