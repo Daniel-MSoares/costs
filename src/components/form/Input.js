@@ -3,7 +3,7 @@ function Input({ type, text, name, placehoder, handleOnChange, value }) {
     return (
         <div className={styles.form_control}>
             <label htmlFor={name}>{text}:</label>
-            <input
+            <input required
                 id={name}
                 type={type}
                 name={name}
