@@ -1,15 +1,26 @@
 {
   "projects": [
     {
-      "name": "bala Doce",
-      "budget": "4",
+      "name": "TESTE!",
+      "budget": "1000",
       "category": {
-        "id": "4",
-        "name": "Planning"
+        "id": "2",
+        "name": "Development"
       },
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "mudar rede",
+      "budget": "34",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
