@@ -75,7 +75,7 @@ function Projects(){
             ))}
         {!removeLoading && <Loading/>}
         {removeLoading && projects.length===0 &&(
-          <p>não há projetos cadastrados!</p>
+          <p>There are no registered projects!</p>
         )}
 
        </Container>
